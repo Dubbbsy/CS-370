@@ -1,4 +1,4 @@
-# CS-370
+# CS-370 Austin Adams
 
 
 
